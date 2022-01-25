@@ -1,2 +1,2 @@
-# coffee_machine
-I'm learning Python with Kurs Python z JetBrains Academy! SO AWESOME, WOW !!!
+# Coffee machine and other projects
+I'm learning Python with JetBrains Academy! SO AWESOME, WOW !!!
